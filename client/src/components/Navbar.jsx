@@ -28,7 +28,7 @@ const Navbar = () => {
                  Explore More !
                 </Link>
                 <Link
-                  to="/"
+                  to="/authenticate"
                   className="text-sm font-medium text-gray-900 hover:text-gray-600 px-3 py-2 rounded-md transition-colors duration-300"
                 >
                   Login
